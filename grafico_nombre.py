@@ -4,8 +4,8 @@ from pylab import *
 import matplotlib.pyplot as plt
 import numpy as np
 
-x = linspace(0, 20, 10)
-y = x ** 2
+x = linspace(0, 5, 10)
+y = x ** 222
 figure()
 plot(x, y, 'r')
 xlabel('x')
